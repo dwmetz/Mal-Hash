@@ -7,4 +7,4 @@
  </p>
 
 </div>
-This script will generate file hashes (MD5, SHA1, SHA256), submit the MD5 to Virus Total, and produce a text report with the results.
+This script will generate file hashes (MD5, SHA1, SHA256), run strings against the file, submit the MD5 to Virus Total, and produce a text report with the results.
