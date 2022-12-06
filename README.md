@@ -7,4 +7,4 @@
  </p>
 
 </div>
-This script will generate file hashes (MD5, SHA1, SHA256), run strings against the file, submit the MD5 to Virus Total, and produce a text report with the results.
+The script takes the input of a file, calculates the hashes (MD5, SHA1, SHA256), and then submits the *HASH* to Virus Total for analysis. The script will also run Strings against the sample.  The hashes, strings and Virus Total results are both displayed on screen and saved to a text report. Timestamp of the analysis is recorded in UTC.
